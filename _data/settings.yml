@@ -16,11 +16,11 @@ author:
 
 #-------------------------------
 # Contact links
+instagram: https://www.instagram.com/y.rok_1004/ # Add your Instagram handle
 github: https://github.com/YangRokChoi/
 #twitter: https://twitter.com/ # Add your Twitter handle
 #facebook: https://facebook.com/ # Add your Facebook handle
 #dribbble: https://dribbble.com/ # Add your Dribbble handle
-#instagram: https://instagram.com/ # Add your Instagram handle
 #pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
@@ -32,7 +32,7 @@ disqus-identifier: YangRok # add your shortname for Disqus Comment. For example 
 #-------------------------------
 # Instagram Feed
 instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: y,rok_1004 # Add instagram username
 
 
 #-------------------------------
