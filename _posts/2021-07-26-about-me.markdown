@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  About Me
-date:   2021-07-21 01:59:00 +0300
+date:   2021-07-26 01:59:00 +0300
 image:  AboutMe.gif
 tags:   AboutMe
 ---
