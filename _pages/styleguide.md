@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Style Guide x
+title: Style Guide
 permalink: /styleguide/
 image: 08.jpg
 ---
