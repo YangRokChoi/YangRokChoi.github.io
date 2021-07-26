@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Find a connection with the reader
-date:   2018-07-24 15:01:35 +0300
+title:  About Me
+date:   2021-07-27 01:44:35 +0300
 image:  AboutMe.gif
-tags:   Resources
+tags:   AboutMe
 ---
 Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
 
