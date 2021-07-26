@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  About Me
-date:   2021-07-25 17:50:00 +0300
+date:   2021-07-27 01:33:35 +0300
 image:  AboutMe.gif
-tags:   AboutMe
+tags:   Resources
 ---
+# About Me
 Hello! Thank you for visiting my blog.
 
----
 ## Education
